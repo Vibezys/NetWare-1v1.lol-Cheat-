@@ -1,0 +1,1 @@
+To actually use this, Make sure you have 1v1.lol installed through steam. Also make sure that you add the folder as an exclusion in your antivirus folder. It is perfectly safe. Once you have 1v1.lol installed on steam you will open the folder and double left click on the "inject.cmd" file. Boom your cheats are loaded.
